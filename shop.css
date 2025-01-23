@@ -1,0 +1,88 @@
+ .products img
+   {
+   width: 100%;
+   border-radius: 20px;
+   }
+   .products h1{
+    font-size:32px;
+    margin-top: 28px;
+    margin-bottom: 7px;
+    line-height: 20px;
+   }
+   .products p{
+    font-size: 24px;
+    color: #7F7F7F;
+   }
+   .links a{
+    color: #242323;
+    margin-right:65px; 
+
+   }
+   .links .signup{
+    margin-right: 0px;
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 7px;
+    padding:13px 20px;
+   }
+
+  .third-part 
+   {
+   background-color: #EBD96B;
+   padding:56px 0px;
+   margin-bottom:70px;
+   }
+.third-part img{
+  width:100%;
+}
+.new-arrivals .tittle{
+  font-size: 48px;
+  margin-bottom:100px;
+}
+/* banner css start */
+.banner .bg-color{
+  background-color: #F4F6F5;
+  padding-top: 60px;
+}
+.bannerimg{
+  width: 100%;
+}
+/* banner end */
+
+   @media screen and (max-width: 991px) {
+    .navbar .links {
+      display: block !important;
+    }
+    .links .signup{
+        width:fit-content ;
+    }
+    .links a{
+        padding-left: 0px;
+    }
+  }
+  @media screen and (max-width: 768px) {
+
+    .third-part{
+      padding: 40px 0px;
+    }
+    .products img
+   {
+
+   height: 400px;
+   object-fit: cover;
+   }
+   .products h1{
+    font-size:24px;
+   }
+   .products p{
+    font-size:16px;
+   }
+   .new-arrivals .tittle{
+    font-size:32px;
+    margin-bottom:40px;
+  }
+  .products h1{
+    margin-top:20px;
+  }
+  }
+  

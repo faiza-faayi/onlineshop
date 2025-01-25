@@ -538,9 +538,10 @@ width: 140px;
   }
   .btntop{
     margin-top: 10px;
+    margin-bottom: 10px;
   }
 .paratop{
-  margin-top: 0px;
+  margin-top: -5px;
 }
   .products h1{
     font-size:20px;
@@ -550,10 +551,10 @@ width: 140px;
   }
   
   .headtop{
-    margin-top: 0px;
+    margin-top: -10px;
   }
   .young1{
-    margin-top:0px;
+    margin-top:-10px;
   }
 .favourite p{
   font-size: 14px;

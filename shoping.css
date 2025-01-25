@@ -560,9 +560,9 @@ width: 140px;
   .headtop{
     margin-top:-20px;
   }
-  /* .headtop2 {
-    margin-top:-3;
-  } */
+  .headtop2 {
+    margin-top:-20px !important;
+  }
 .favourite p{
   font-size: 14px;
 }

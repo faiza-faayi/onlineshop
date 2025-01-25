@@ -552,10 +552,13 @@ width: 140px;
     margin-top: 0px;
   }
   .young1{
-    margin-top:18px;
+    margin-top:10px;
   }
 .favourite p{
   font-size: 14px;
+}
+.favourite h1{
+  font-size:20px ;
 }
 .young1 h1{
   font-size: 20px;

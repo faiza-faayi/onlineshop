@@ -549,6 +549,9 @@ width: 140px;
   .products p{
     font-size:14px;
   }
+  .listimg{
+    margin-bottom: 10px;
+  }
   
   .headtop{
     margin-top: -10px;

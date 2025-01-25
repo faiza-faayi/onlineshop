@@ -533,10 +533,16 @@ width: 140px;
 }
 @media screen and (max-width:568px)
 {
-  .logofont{
-    font-size: 16px;
+  .logosize img{
+    width:50%;
   }
   .marginbottom{
-    margin-bottom: 0px;
+    margin-bottom:6px;
+  }
+  .products h1{
+    font-size: 16px;
+  }
+  .products p{
+    font-size: 10px;
   }
 }

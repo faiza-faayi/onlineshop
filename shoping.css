@@ -1,4 +1,8 @@
 /* new arrival start */
+html,body{
+  width: 100%;
+  overflow-x: hidden;
+}
   .products img
    {
    width: 100%;

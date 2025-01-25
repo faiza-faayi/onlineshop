@@ -560,8 +560,8 @@ width: 140px;
   .headtop{
     margin-top:-20px;
   }
-  .headtop {
-    margin-top:-20px;
+  .headtop2 {
+    margin-top:-30px;
   }
 .favourite p{
   font-size: 14px;
@@ -583,5 +583,8 @@ width: 140px;
 }
 .inputwrap{
   width: 75%;
+}
+.topagain{
+  margin-top: 10px;
 }
 }

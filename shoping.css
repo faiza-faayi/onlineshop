@@ -548,7 +548,16 @@ width: 140px;
   .para1{
     margin-top:5px;
   }
-  .tittle{
+   .new-arrivals .tittle{
     margin-top: 0px;
   }
+  .young1{
+    margin-top:18px;
+  }
+.favourite p{
+  font-size: 14px;
+}
+.young1 h1{
+  font-size: 20px;
+}
 }

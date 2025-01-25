@@ -534,15 +534,15 @@ width: 140px;
 @media screen and (max-width:568px)
 {
   .logosize img{
-    width:50%;
+    width:75%;
   }
   .marginbottom{
-    margin-bottom:6px;
+    margin-bottom:10px;
   }
   .products h1{
-    font-size: 16px;
+    font-size:20px;
   }
   .products p{
-    font-size: 10px;
+    font-size:14px;
   }
 }

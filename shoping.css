@@ -549,15 +549,15 @@ width: 140px;
   .products p{
     font-size:14px;
   }
-  .listimg{
-    margin-bottom: 10px;
-  }
   
+  .listimg{
+    margin-top: 0px;
+  }
   .headtop{
-    margin-top: -10px;
+    margin-top:-20px;
   }
   .young1{
-    margin-top:-10px;
+    margin-top:-20px;
   }
 .favourite p{
   font-size: 14px;
